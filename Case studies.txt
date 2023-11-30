@@ -1,0 +1,56 @@
+saucedemo.com
+automationpractice.com
+
+demoqa.com
+the-internet.herokuapp.com
+
+http://ww1.rahushettyacademy.com/?backfill=0&term=Software+QA+Courses&term=Learn+To+Code&term=Online+Programming+School&term=Cyber+Security+Testing
+ 
+Web Testing
+https://app.vwo.com/
+https://awesomeqa.com/ui
+https://awesomeqa.com
+https://www.bstackdemo.com/
+http://www.tutorialsninja.com/demo/
+https://katalon-demo-cura.herokuapp.com/
+http://adactinhotelapp.com/
+http://bmw.in
+
+Automation Testing
+https://app.vwo.com/
+https://katalon-demo-cura.herokuapp.com/
+https://selectorshub.com/xpath-practice-page/
+https://www.letskodeit.com/practice
+
+
+
+Vidhyasekhar
+
+https://github.com/vidyashekar/JavaDemo02
+
+API Testing 
+
+
+Basic to Start
+
+https://restful-booker.herokuapp.com/apidoc/index.html - Basic Start
+https://reqres.in/ 
+https://httpbin.org/ 
+http://dummy.restapiexample.com/ 
+https://jsonplaceholder.typicode.com/ 
+https://fakerestapi.azurewebsites.net/ CRUD
+https://www.programmableweb.com/apis/directory - Misc
+
+
+Advance (Auth)
+
+
+https://developers.google.com/maps/documentation  - OAuth 2 + Crud
+https://developer.github.com/v3/repos/  - Token Auth + CRUD
+https://randomuser.me  for User Testing API
+https://apidocs.imgur.com  for Oauth2 & CRUD for Image upload
+https://developer.atlassian.com/server/jira/platform/rest-apis/ - JIRA API for the Bearer Token Auth
+https://app.vwo.com  - Login API & Dashboard CRUD
+https://apidocs.imgur.com/  OAuth2.0 + File Upload (CRUD)
+
+
